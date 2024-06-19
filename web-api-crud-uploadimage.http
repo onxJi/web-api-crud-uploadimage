@@ -1,0 +1,6 @@
+@web_api_crud_uploadimage_HostAddress = http://localhost:5170
+
+GET {{web_api_crud_uploadimage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
